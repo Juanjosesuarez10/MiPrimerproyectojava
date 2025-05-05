@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ejercicio213",
+            "request": "launch",
+            "mainClass": "ejercicio213",
+            "projectName": "MiPrimerproyectojava_e4816678"
+        },
+        {
+            "type": "java",
             "name": "ppp",
             "request": "launch",
             "mainClass": "ppp",
