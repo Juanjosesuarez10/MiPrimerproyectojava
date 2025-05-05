@@ -1,0 +1,105 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ppp",
+            "request": "launch",
+            "mainClass": "ppp",
+            "projectName": "MiPrimerproyectojava_e4816678"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "MiPrimerproyectojava_e4816678"
+        },
+        {
+            "type": "java",
+            "name": "NumerosMagicos",
+            "request": "launch",
+            "mainClass": "NumerosMagicos",
+            "projectName": "MiPrimerproyectojava_e4816678"
+        },
+        {
+            "type": "java",
+            "name": "OperacionesNumeros",
+            "request": "launch",
+            "mainClass": "OperacionesNumeros",
+            "projectName": "MiPrimerproyectojava_e4816678"
+        },
+        {
+            "type": "java",
+            "name": "array1",
+            "request": "launch",
+            "mainClass": "array1",
+            "projectName": "MiPrimerproyectojava_e4816678"
+        },
+        {
+            "type": "java",
+            "name": "banc",
+            "request": "launch",
+            "mainClass": "banc",
+            "projectName": "MiPrimerproyectojava_e4816678"
+        },
+        {
+            "type": "java",
+            "name": "curso",
+            "request": "launch",
+            "mainClass": "curso",
+            "projectName": "MiPrimerproyectojava_e4816678"
+        },
+        {
+            "type": "java",
+            "name": "ejercicio1",
+            "request": "launch",
+            "mainClass": "ejercicio1",
+            "projectName": "MiPrimerproyectojava_e4816678"
+        },
+        {
+            "type": "java",
+            "name": "ejercicio14",
+            "request": "launch",
+            "mainClass": "ejercicio14",
+            "projectName": "MiPrimerproyectojava_e4816678"
+        },
+        {
+            "type": "java",
+            "name": "ejercicio20",
+            "request": "launch",
+            "mainClass": "ejercicio20",
+            "projectName": "MiPrimerproyectojava_e4816678"
+        },
+        {
+            "type": "java",
+            "name": "ejercicio6",
+            "request": "launch",
+            "mainClass": "ejercicio6",
+            "projectName": "MiPrimerproyectojava_e4816678"
+        },
+        {
+            "type": "java",
+            "name": "ejerciciopr1",
+            "request": "launch",
+            "mainClass": "ejerciciopr1",
+            "projectName": "MiPrimerproyectojava_e4816678"
+        },
+        {
+            "type": "java",
+            "name": "numerosamigos",
+            "request": "launch",
+            "mainClass": "numerosamigos",
+            "projectName": "MiPrimerproyectojava_e4816678"
+        }
+    ]
+}

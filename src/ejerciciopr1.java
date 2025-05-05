@@ -1,9 +1,6 @@
 import java.util.Scanner;
 
 
-        import java.util.Scanner;
-
-
     public static void main(String[] args) {
         // Crear un array de tamaño 5
         double[] numeros = new double[5];
@@ -33,4 +30,3 @@ import java.util.Scanner;
 
 
     }
-}

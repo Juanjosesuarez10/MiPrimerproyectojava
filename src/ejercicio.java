@@ -1,9 +1,11 @@
-public class tienda {
+Scanner scanner = new Scanner(System.in);
+
     public static void main(String[] args) {
+      
       int camisa = 25;
         int pantalon = 30;
         
-       Scanner scanner = new Scanner(System.in);
+      
        System.out.print ("Ingrese cuantas camisas quiere");
         int numCamisa = scanner.nextInt();
         System.out.print ("Ingrese cuantos pantalones quiere");
