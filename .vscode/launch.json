@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Numerosmagicos",
+            "request": "launch",
+            "mainClass": "Numerosmagicos",
+            "projectName": "MiPrimerproyectojava_e4816678"
+        },
+        {
+            "type": "java",
+            "name": "stud",
+            "request": "launch",
+            "mainClass": "stud",
+            "projectName": "MiPrimerproyectojava_e4816678"
+        },
+        {
+            "type": "java",
             "name": "ejercicio213",
             "request": "launch",
             "mainClass": "ejercicio213",

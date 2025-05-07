@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class NumerosMagicos {
+public class Numerosmagicos {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
@@ -22,6 +22,7 @@ public class NumerosMagicos {
                     }
                 }
                 System.out.println(); // Salto de línea después de cada fila
+                input.close();
             }
         }
     }
