@@ -1,4 +1,4 @@
-public class banc {
+public class ejercicios {
     public static void main(String[] args) {
         int Mes = 4;
         float Retiro = 200f;
